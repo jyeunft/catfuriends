@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB8aE10811875400FD35C0397bA8B12cE57Bb9d48",
+  "SCAN_LINK": "https://polygonscan.com/address/0xb8ae10811875400fd35c0397ba8b12ce57bb9d48",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cat Furiends",
+  "SYMBOL": "CF",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 8000000000000000000,
+  "DISPLAY_COST": 8,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cat-furiends",
+  "SHOW_BACKGROUND": true
+}
